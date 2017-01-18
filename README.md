@@ -1,9 +1,13 @@
-# Expense Management
+# Expense Management (PHP Expense manager)
 
-![N|Solid](http://www.webprojectbuilder.com/assets/home_images/icon.png) [Web Project Builder](http://www.webprojectbuilder.com/) - A smart PHP Project Builder
+### Description
+
+A simple but powerful PHP script to manage your expenses with multi-user level and permission. PHP expense manager designed to help individual or business budget, track and possibly control your expenses. It supports tracking of both your expenses and income. This expense management system provides an integrated set of features to help you to manage your expenses and cash flow. It provides the ability to group your income/expenses into categories and lets you set a budget and track expenses in the category.
+
+It can be used as a base platform for any CodeIgniter project
 
 ### Screenshots and Live Demo
-## [1. More Screenshots will be found here](http://www.webprojectbuilder.com/item/expense-management)
+## [1. All Screenshots](http://www.webprojectbuilder.com/item/expense-management)
 
 ## [2. Demo Link](http://www.webprojectbuilder.com/item/expense-management/live-demo/1)
 
@@ -15,11 +19,6 @@
 
 ## [More Screenshots will be found here](http://www.webprojectbuilder.com/item/expense-management)
 
-### Description
-
-A simple but powerful PHP script to manage your expenses with multi-user level and permission. Our expense management system designed to help individual or business budget, track and possibly control your expenses. It supports tracking of both your expenses and income. This expense management system provides an integrated set of features to help you to manage your expenses and cash flow. It provides the ability to group your income/expenses into categories and lets you set a budget and track expenses in the category.
-
-It can be used as a base platform for any CodeIgniter based web applications.
 
 # Feature List
 - Manage Expense
@@ -44,12 +43,13 @@ Installation
 
 Special Thanks to
 ---
-- Web Project Builder Team who have spent hours to develop this and distributing it for free. 
-- Possibilities to build many custom projects using Web Project Builder, a smart PHP Project Builder
+- [Web Project Builder](http://www.webprojectbuilder.com/) &  [IBR Infotech](http://www.ibrinfotech.com), Team who have spent hours to develop this and distributing it for free. 
 
-Notes
+
+Customization
 ---
-Custom CRUD and more features can be added to this code using simple User interface at http://www.webprojectbuilder.com/item/expense-management
+- Custom CRUD and more features can be added to this code using simple User interface at http://www.webprojectbuilder.com/item/expense-management
+- We offer customization of this script
 
 License
 ----
@@ -57,3 +57,11 @@ No licence, Free to use, modify and distribute
 
 
 **Free Software, Hell Yeah!**
+
+About Us
+---
+We are [IBR Infotech,](http://www.ibrinfotech.com) team of software developers working on various technologies like PHP, Codeigniter, Laravel, Worpdress, Wordpress Plugin Development, Angular JS,Node JS Mobile Applications (Android and IOS) and many more...
+
+![N|Solid](http://www.webprojectbuilder.com/assets/home_images/icon.png) [Created with Web Project Builder](http://www.webprojectbuilder.com/) - A smart PHP Project Builder
+
+A Product of [IBR Infotech](http://www.ibrinfotech.com)
